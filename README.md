@@ -1,0 +1,28 @@
+# C++ Game Engine Components
+- [ ] Game Engine
+  - [x] Math Engine
+    - [ ] Linear Algebra
+      - [ ] Vector 
+        - [ ] Add
+        - [ ] Subtract
+        - [ ] Dot product
+        - [ ] Cross product
+      - [ ] Matrix 
+        - [ ] Transform
+        - [ ] Transpose
+        - [ ] Invert
+        - [ ] Identity
+  - [ ] Rendering Engine - Handles OpenGL ops
+    - [ ] Vertex Position
+    - [ ] UV Position
+    - [ ] Normals
+    - [ ] Textures
+  - [ ] Physics Engine
+    - [ ] Forces
+      - [ ] Gravity
+        - [ ] Euler
+        - [ ] Verlet
+        - [ ] Runge-Kutta
+      - [ ] Collision Detection
+  - [ ] Scenegraph/StateManager/EntityManager
+    - [ ] Engine Loop
